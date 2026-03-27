@@ -8,7 +8,7 @@ By using the App, you agree to the collection and use of information in accordan
 
 2. Information Collection and Use We want to provide you with the best possible experience. The App itself does not require you to create an account, and we do not knowingly or intentionally collect personally identifiable information (such as your name, email address, or phone number) directly from you unless you contact us for support.
 
-3. In-App Purchases and Subscription Data The App offers auto-renewing subscriptions and in-app purchases. All payment transactions are processed entirely through the Apple App Store (or Google Play Store, if applicable). We do not collect, process, or have access to your credit card information, billing address, or other financial details.
+3. In app purchase and subscription information: If you purchase a subscription, the transaction is handled by Apple through the App Store. We use RevenueCat to manage subscription status. RevenueCat receives an anonymous app user ID to verify your entitlements. We do not collect your name, email, payment details, or Apple ID.
 
 We only receive anonymized receipt data from the application storefront (Apple/Google) to verify your purchase status and grant you access to premium features (e.g., Weekly or Yearly Premium plans).
 
