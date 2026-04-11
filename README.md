@@ -2,7 +2,7 @@ Privacy Policy
 
 Last updated: March 15, 2026
 
-1. Introduction This Privacy Policy applies to the Fly On The Clouds mobile application (the "App"), developed by Emre Acikgoz ("we", "us", or "our"). We are committed to protecting your privacy. This policy explains what information we collect, how we use it, and your rights regarding that information when you use our App.
+1. Introduction This Privacy Policy applies to the Dream Clouds: Relax & Sleep mobile application (the "App"), developed by Emre Acikgoz ("we", "us", or "our"). We are committed to protecting your privacy. This policy explains what information we collect, how we use it, and your rights regarding that information when you use our App.
 
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the App.
 
