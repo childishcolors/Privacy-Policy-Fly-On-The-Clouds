@@ -1,35 +1,45 @@
-Privacy Policy
+# Privacy Policy
+**Last Updated: May 7, 2026**
 
-Last updated: March 15, 2026
+Dream Clouds ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use our mobile application, **DreamClouds**.
 
-1. Introduction This Privacy Policy applies to the Dream Clouds: Relax & Sleep mobile application (the "App"), developed by Emre Acikgoz ("we", "us", or "our"). We are committed to protecting your privacy. This policy explains what information we collect, how we use it, and your rights regarding that information when you use our App.
+## 1. Information We Collect
+When you play DreamClouds, we and our third-party partners may automatically collect certain information about your device, including:
+* **Device Identifiers**: Advertising ID (such as Apple's IDFA or Google's AAID), IP address, and unique device tokens.
+* **Device Information**: Device model, operating system version, browser type, and language settings.
+* **Usage Data**: Information about how you interact with the game, including levels played, achievements, and ad interactions.
 
-By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use the App.
+## 2. Advertising and Analytics
+To keep our game free to play, we show advertisements. We use **IronSource LevelPlay** as our primary ad mediation platform. 
 
-2. Information Collection and Use We want to provide you with the best possible experience. The App itself does not require you to create an account, and we do not knowingly or intentionally collect personally identifiable information (such as your name, email address, or phone number) directly from you unless you contact us for support.
+These third-party ad networks may use the information collected (like your Advertising ID) to:
+* Serve personalized advertisements (Interest-Based Advertising).
+* Limit the number of times you see the same ad (Frequency Capping).
+* Measure the effectiveness of ad campaigns.
 
-3. In app purchase and subscription information: If you purchase a subscription, the transaction is handled by Apple through the App Store. We use RevenueCat to manage subscription status. RevenueCat receives an anonymous app user ID to verify your entitlements. We do not collect your name, email, payment details, or Apple ID.
+**Our Ad Partners include:**
+* IronSource (Unity)
+* Google AdMob
+* Unity Ads
 
-We only receive anonymized receipt data from the application storefront (Apple/Google) to verify your purchase status and grant you access to premium features (e.g., Weekly or Yearly Premium plans).
 
-4. Third-Party Services and Analytics The App is built using the Unity game engine and uses Unity's built-in services for stability and app performance monitoring. These third-party services may collect certain anonymous data, such as:
+## 3. Your Choices and Opt-Out
+You can opt-out of personalized advertising through your device settings:
+* **iOS**: Go to Settings > Privacy & Security > Tracking and disable "Allow Apps to Request to Track."
+* **Android**: Go to Settings > Google > Ads and enable "Opt out of Ads Personalization."
 
-Your device model and operating system version
-App installation and usage data
-Crash reports and error logs
-Unique device identifiers (which are anonymized)
-These third-party service providers have their own privacy policies addressing how they use such information:
+## 4. Children’s Privacy
+DreamClouds is a relaxing experience for all ages. However, we do not knowingly collect personal information from children under the age of 13 (or 16 in certain jurisdictions). If we learn we have collected such information, we will take steps to delete it immediately.
 
-Apple Privacy Policy: https://www.apple.com/legal/privacy/
-Unity Privacy Policy: https://unity3d.com/legal/privacy-policy
-5. Log Data Whenever you use our App, in a case of an error in the app, we (or our third-party services) may collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+## 5. Data Security
+We implement reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-6. Security We value your trust in providing us with your data (where applicable). However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+## 6. GDPR and CCPA Compliance
+If you are a resident of the European Economic Area (EEA) or California, you have certain data protection rights, including the right to access, update, or delete the information we have on you. 
 
-7. Links to Other Sites This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 7. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
-8. Children’s Privacy Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
-
-9. Changes to This Privacy Policy We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-10. Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: childishcolors@gmailcom
+## 8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+childishcolors@gmail.com
